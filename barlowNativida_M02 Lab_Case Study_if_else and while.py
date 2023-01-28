@@ -22,7 +22,7 @@ if student_last_name == "ZZZ":
 
 
 student_first_name = input("What is the student's first name? ")
-print("Recheiving records for " + student_first_name + " " + student_last_name + ".  Please stand by...")
+print("Retrieving records for " + student_first_name + " " + student_last_name + ".  Please stand by...")
 
 gpa = float(input("What is " + student_first_name + "'s GPA? "))
 
